@@ -1,0 +1,1074 @@
+<?xml version="1.0"?>
+<course>
+ <id>{a4e017a9-57f3-4b49-b03b-957f857600c8}</id>
+ <title>Programmer dvorak</title>
+ <description>Based on the lessons available at https://programmer-dvorak.appspot.com/</description>
+ <keyboardLayout>us(dvp)</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{e5b1f13e-3179-40e6-b573-96736f245d8a}</id>
+   <title>Lesson 1</title>
+   <newCharacters>uh</newCharacters>
+   <text>uuuu hhhh uuuu hhhh uuuu hhhh uuuu hhhh
+uuuu hhhh uuuu hhhh uuuu hhhh uuuu hhhh
+uh uh uh uh
+hu hu hu hu
+huh huh huh huh
+uh huh uh huh uh huh uh huh
+h u uh hu uhh huh uhh
+h u uh hu uhh huh uhh</text>
+  </lesson>
+  <lesson>
+   <id>{3b3d35c0-859d-4f6e-91a8-d55302dad688}</id>
+   <title>Lesson 2</title>
+   <newCharacters>et</newCharacters>
+   <text>eeee tttt eeee tttt eeee tttt eeee tttt
+eeee tttt eeee tttt eeee tttt eeee tttt
+et et et et
+tee tee tee tee
+tete tete tete tete
+eet eet eet eet
+t e et te teet tee teet tete et
+t e et te teet tee teet tete et</text>
+  </lesson>
+  <lesson>
+   <id>{a60570ee-a54d-4a78-8288-e6efe079beb8}</id>
+   <title>Lesson 3</title>
+   <newCharacters>ethu</newCharacters>
+   <text>eeee hhhh tttt uuuu
+eeee hhhh tttt uuuu
+eeee hhhh tttt uuuu
+hue hue hue hue tutu tutu tutu tutu the the the the he he he
+teeth teeth teeth teeth hut hut hut hut
+thee thee thee thee tutu tutu tutu tutu
+eh he hue hut teeth teethe the thee tutu
+eh he hue hut teeth teethe the thee tutu</text>
+  </lesson>
+  <lesson>
+   <id>{b7b6c618-68cd-4492-9ce7-3cdb3b1bcac4}</id>
+   <title>Lesson 4</title>
+   <newCharacters>on</newCharacters>
+   <text>oooo nnnn oooo nnnn oooo nnnn oooo nnnn
+oooo nnnn oooo nnnn oooo nnnn oooo nnnn
+no no no no
+on on on on
+non non non non
+noon noon noon noon
+ono ono ono ono
+no non noon on noo ono
+no non noon on noo ono</text>
+  </lesson>
+  <lesson>
+   <id>{c1d04127-8dcf-4814-a100-354964658ddb}</id>
+   <title>Lesson 5</title>
+   <newCharacters>onOTNHEU</newCharacters>
+   <text>hone hone hone hone hoot hoot hoot hoot hunt hunt hunt hunt
+neon neon neon neon none none none none note note note note
+noun noun noun noun onto onto onto onto Otto Otto Otto Otto
+teen teen teen teen tent tent tent tent then then then then
+thou thou thou thou tone tone tone tone toot toot toot toot
+tote tote tote tote tout tout tout tout tune tune tune tune
+tenet tenet tenet tenet tenth tenth tenth tenth tooth tooth
+Tune the tone
+Note the teen not the tutu
+Ten hot teeth tout the tune
+The one nut to tote out the hen
+None hunt out the tenth one ton nun
+Hunt the neon then toot out the tune onto the tent</text>
+  </lesson>
+  <lesson>
+   <id>{1a22a4df-b3ad-4ff4-b020-098a8a960261}</id>
+   <title>Lesson 6</title>
+   <newCharacters>as</newCharacters>
+   <text>aaaa ssss aaaa ssss aaaa ssss aaaa ssss
+aaaa ssss aaaa ssss aaaa ssss aaaa ssss
+as as as as
+sa sa sa sa
+sas sas sas sas
+ass ass ass ass
+sass sass sass sass
+as a sass ass as a sas
+as a sass ass as a sas</text>
+  </lesson>
+  <lesson>
+   <id>{e1b1fe5a-93c2-44fd-aa07-47ddb1cf39de}</id>
+   <title>Lesson 7</title>
+   <newCharacters>AS</newCharacters>
+   <text>aaaa eeee hhhh nnnn oooo ssss tttt uuuu
+ah ah ah ah an an an an at at at at ha ha ha ha so so us us
+ash ash ash ash San San San San sat sat sat sat sea sea sea
+ease ease ease ease east east east east Haas Haas Haas Haas
+Hans Hans Hans Hans hash hash hash hash sane sane sane sane
+sash sash sash sash Sean Sean Sean Sean seat seat seat seat
+Stan Stan Stan Stan
+Sean hates tetanus shots
+Eat the toast at ten to noon
+The Taos sun shone as hot as Santa Anna
+Anthea assesses the estate at South Tahoe
+Hotshot Hanna uses these shoes that Shannon soon sees
+At noon on the teahouse Aunt Tess hushes the nauseous host
+Annette senses the sensuous sunset onset on the Athens sea
+Tess Sutton notates the tenuous state that southeast Houston
+has seen
+Ethan Ness attests to these Tennessee Senate OSHA statutes
+to shun Utah</text>
+  </lesson>
+  <lesson>
+   <id>{2ed466dc-a466-4dd6-aee7-984c06e05a2f}</id>
+   <title>Lesson 8</title>
+   <newCharacters>di</newCharacters>
+   <text>iiii dddd iiii dddd iiii dddd iiii dddd
+iiii dddd iiii dddd iiii dddd iiii dddd
+id id id id
+id id id id
+did did did did
+did did did did
+didi did id did i
+didi did id did i
+uuuu hhhh iiii dddd
+du du du du hi hi hi hi
+dud dud dud dud hid hid hid hid</text>
+  </lesson>
+  <lesson>
+   <id>{bbd1bee4-a91c-4c93-8666-92f88518b014}</id>
+   <title>Lesson 9</title>
+   <newCharacters>DI</newCharacters>
+   <text>aaaa dddd eeee hhhh iiii nnnn oooo ssss tttt uuuu
+aaaa dddd eeee hhhh iiii nnnn oooo ssss tttt uuuu
+Tina is on hiatus instead
+The statue is sent to Santa Anita
+This session is tedious on the tendons
+That Thai dish is intense on the sinuses
+Onions stain satin so use this Tide on this
+Dan Addison detonated the thousandth headstone
+Estonian nationhood is a notion hidden in Asia
+The tennis enthusiast hides the dots on his hands
+Otis said that sand is the seed that Isis sent us
+Ted Austin insinuated that Tunisia is in Indonesia
+The Dissonant in the ninth edition hits on the Saudis
+I insist that Adenine is in DNA and that andesine is not
+Deanna and Eddie suntanned on the Tahitian seaside oasis
+Indiana and Ohio do not need donated tissues and headsets
+The attendant initiated an intense sound that suited Odessa
+The dodo added nine and nineteen and attained nine thousand
+Duane nodded to his sis as he situated his sedan in the
+shade
+Dennis Hudson is hidden in a distant Tunisian hashish
+hideout
+Nina and Dana hit the astonished attendee on the head in
+unison
+Auntie Edith tends to hint that Edna heeds the ideas due to
+Satan
+The idea that nineteen studious Dadaists assisted Einstein
+is asinine
+Todd hesitated in his Datsun then hit the Honda in the side
+in an instantaneous THUD
+The thesis that Dante dated Death is as inane as the
+attitude that Sade stood on Sadness
+A destitute Sudanese assassin insists that sainthood is
+indeed a handout to heathenish idiots
+A thousand nude deadheads sustained hideous headstands as
+studious atheists dissented and seethed</text>
+  </lesson>
+  <lesson>
+   <id>{9fd0f105-b621-4808-b05c-e6cf0c242078}</id>
+   <title>Lesson 10</title>
+   <newCharacters>pg</newCharacters>
+   <text>gggg pppp gggg pppp gggg pppp gggg pppp
+gggg pppp gggg pppp gggg pppp gggg pppp
+pg pg pg pg pg pg pg pg
+gp gp gp gp gp gp gp gp
+gggg hhhh pppp uuuu
+up up up up hug hug hug hug pug pug pug pug pup pup pup pup
+ugh ugh ugh ugh Hugh Hugh Hugh Hugh pugh pugh pugh pugh</text>
+  </lesson>
+  <lesson>
+   <id>{e65ea457-f8e5-41ca-9756-1d5679d0ffc7}</id>
+   <title>Lesson 11</title>
+   <newCharacters>PG</newCharacters>
+   <text>aaaa dddd eeee gggg hhhh iiii nnnn oooo pppp ssss tttt uuuu
+aaaa dddd eeee gggg hhhh iiii nnnn oooo pppp ssss tttt uuuu
+The Huntington is in Pasadena
+He has one pip on his insignia
+I did not see Patton Against The Gestapo
+I put the sponge onto the peg on the spigot
+She did not postpone the hepatitis diagnosis
+The USPS sent postage high on August eighteenth
+Pete stops as he peeps at the Pepsi and doughnuts
+Nothing is as stupendous as an independent opinion
+I did not design this gadget that ignites potatoes
+Neptune is the sea god and is the god Poseidon too
+Do not dispute that pogo is as ingenious as ping pong
+The suggestion that toothpaste is poisonous is stupid
+I suggest that one not go to Saigon in a ship tonight
+Giuseppe pigged out on antipasto and pungent spaghetti
+The pianist is a passionate sap and sings insipid songs
+Angus thought he needed a tenspot to snap up the headphones
+Gina Esposito supposed that the signpost in Spain said STOP
+The Spanish poet happened to paint his house indigo and
+sepia
+Gus is assigned to get genuine snapshots inside the USGS
+ship
+This pennant said Hastings on it and that one said Penn
+State
+Gas Seepage in the Peugeot stopped the engine at the
+guidepost
+Patti Eng has a PhD in the thespian sagas on Oedipus and
+Antigone
+Tonight the teenage peasants appease the pagan suntanning
+goddess
+The penguin gasped as its appendage pushed past the
+Patagonian ship
+Seeing an aging ape eating pudding in a teaspoon is not too
+desponding
+In this episode the patient hostages hug and sing despite
+the gunshots
+Espionage at DuPont and Hughes is upsetting to the GOP and
+the Pentagon
+Doug pauses as he puts the poinsettias and sagging petunias
+in the teapot
+The indignant patient ingested a potent dosage to suspend
+his indigestion
+Upsetting gossip at the pageant had Stephanie and Gina
+sidestepping opponents
+Pat goes sightseeing at the pagoda in Shanghai despite the
+gunshots at its apogee
+The passage on Pegasus and the Aegean Sea upon page eight is
+a poignant adaptation
+In hindsight Stonehenge suggests the indigenous geniuses had
+to depend on the sun and its phases
+Daphne Stephenson has gone to Ghana and Ethiopia and Uganda
+to audiotape the distinguished singing
+The Pope stood in position atop the highest point in
+Santiago as an aghast Angie Diego ingested peanuts</text>
+  </lesson>
+  <lesson>
+   <id>{39af1c2b-e4c4-4699-b3e1-b1d97931ea34}</id>
+   <title>Lesson 12</title>
+   <newCharacters>.c</newCharacters>
+   <text>cccc .... cccc .... cccc .... cccc ....
+cccc .... cccc .... cccc .... cccc ....
+eeee cccc tttt ....
+ec ec ec ec tc tc tc tc
+ec ec ec ec tc tc tc tc
+c. c. c. c. t. t. t. t. e. e. e. e.
+c. c. c. c. t. t. t. t. e. e. e. e.
+etc. etc. etc. etc. etc. etc. etc. etc.
+etc. etc. etc. etc. etc. etc. etc. etc.</text>
+  </lesson>
+  <lesson>
+   <id>{b2ddc4dd-b414-4994-b76b-134aced22c63}</id>
+   <title>Lesson 13</title>
+   <newCharacters>C</newCharacters>
+   <text>aaaa cccc dddd eeee gggg hhhh iiii nnnn oooo pppp ssss tttt
+uuuu ....
+aaaa cccc dddd eeee gggg hhhh iiii nnnn oooo pppp ssss tttt
+uuuu ....
+I can accept this pecan pie.
+Each disc costs ten cents each.
+The census counts us each decade.
+Couscous is cheapest in Connecticut.
+Cincinnati and Chicago...each U.S.A. cities.
+The didactic speech on Chopin educated Chad.
+Isaac cannot teach us the Chattanooga Choo Choo.
+Scott Chen teaches in oceanic science at Antioch.
+The cadets deduced that such antics caused chaos.
+His stethoscope suggested that Connie had congestion.
+I contend that a Hitachi scope can decode this speech.
+The octopus descended to the Titanic deep in the ocean.
+U.N.E.S.C.O. accepted a chance at a conspicuous occupation.
+The stagecoach continued to pass the cacti in scenic Tucson.
+Capt. P. T. Cohen needs access to a tactician in this
+section.
+Insecticide succeeds in contacting the insect in a
+picosecond.
+Cognac and scotch is an inconspicuous choice...thought
+Candace.
+Topnotch associates to authenticate the ancient Cantonese
+teacups.
+Coco said coaching is a cinch...catch and toss...catch and
+toss....
+The catsup accident at the picnic depicted Dutch as an
+apathetic nuisance.
+It is no coincidence that this idiotic sentence has eight
+concise Cs in it.
+The enthusiastic duchess noticed the Pontiac coupe...and
+decided to chase it.
+I detect a headache...I hope it is not the Schnapps and
+Cocoa I had as a nightcap.
+The accountant...the C.P.A...conceded that he had on
+occasion hidden cocaine in a coconut.
+The cautious Canadian statisticians caught inconsistencies
+in the second spacesuit design.
+The Ph.D. conducted the Puccini Toccata... an acoustic
+succession in succinct cacophonic staccato notes.</text>
+  </lesson>
+  <lesson>
+   <id>{09cd301d-e64d-46aa-9352-d863e3e61ac2}</id>
+   <title>Lesson 14</title>
+   <newCharacters>,r</newCharacters>
+   <text>rrrr ,,,, rrrr ,,,, rrrr ,,,, rrrr ,,,,
+rrrr ,,,, rrrr ,,,, rrrr ,,,, rrrr ,,,,
+nnnn oooo rrrr ,,,,
+or, or, or, or, ro, ro, ro, ro, nor, nor, nor, nor,
+Orr, Orr, Orr, Orr, ron, ron, ron, ron, Orono, Orono, Orono</text>
+  </lesson>
+  <lesson>
+   <id>{d187fd5a-f540-4994-88d0-74bc65656dd9}</id>
+   <title>Lesson 15</title>
+   <newCharacters>R</newCharacters>
+   <text>aaaa cccc dddd eeee gggg hhhh iiii nnnn oooo pppp rrrr ssss
+tttt uuuu ,,,, ....
+aaaa cccc dddd eeee gggg hhhh iiii nnnn oooo pppp rrrr ssss
+tttt uuuu ,,,, ....
+Schroeder desires a career as an orchestra conductor.
+A recurring procedure irrigates the orchard and the prairie.
+Harrison, Harriet, Arturo, and Christopher are grandparents.
+Reagan arranged an airdrop, near the northern Pretoria
+corridor.
+The erratic Richard Rodgers production returned to the
+Curran Theatre.
+Carrie read the transportation report as Rosie rehearsed her
+transcript.
+Roger that, in the circuit, the resistors and transistors
+are corroded.
+The grocer reported that the antiperspirant had
+deteriorated.
+Pierre Renoir regrets that Gerard Depardieu is not in
+Chartres, as desired.
+Horns are characteristic to the rhinoceros and the
+Triceratops, a dinosaur.
+Tia Carrere stars, narrates, and is the director in this
+torrid adaptation.
+Gertrude, in her aristocratic grandeur, returned the carrots
+at the restaurant.
+The Enterprise surprised Picard as it crisscrossed the
+restricted stratosphere.
+Ritter, a character actor, returned an uproarious retort to
+the irritating chairperson.
+The rhetoric, the grandeur, and the scripture interpretation
+surprised the churchgoer.
+The choreographer restrained his rather strong terpsichorean
+urges, and did not dance.
+The oceanographer reports that the interior pressure is
+inappropriate and erroneous, and orders the radar operator
+to intercept the pursuer.
+Ed Harris stars as an arrogant and treacherous paratrooper,
+interpreting, in error, orders to torture a geriatric
+instructor.
+Though his side has surrendered, he continues to oppress and
+interrogate the retired grandparent.
+The aggressor is arrested, arraigned, tried, and,
+appropriate to the horrors he practiced, prosecuted and
+incarcerated.
+The granddaughter, a stenographer, nurtures her grandpa, and
+he recuperates, though his arthritis returns.
+In retrospect, that paragraph incorporated a preposterous R
+proportion.</text>
+  </lesson>
+  <lesson>
+   <id>{812d79a0-24b3-4667-b81a-58a7f2e30396}</id>
+   <title>Lesson 16</title>
+   <newCharacters>'l</newCharacters>
+   <text>llll '''' llll '''' llll '''' llll ''''
+llll '''' llll '''' llll '''' llll ''''
+aaaa llll ssss ''''
+all all all all la la la la A's A's A's A's
+ala ala ala ala l's l's l's l's s's s's s's s's
+Sal Sal Sal Sal lass lass lass lass Sal's Sal's Sal's Sal's</text>
+  </lesson>
+  <lesson>
+   <id>{36ee6ee3-4da6-493d-9319-9c3fd1e442e1}</id>
+   <title>Lesson 17</title>
+   <newCharacters>"L</newCharacters>
+   <text>aaaa cccc dddd eeee gggg hhhh iiii llll nnnn
+oooo pppp rrrr ssss tttt uuuu '''' ,,,, ....
+"Hello," Ellen laughed, as she collided into Allen.
+In a nutshell, Clinton still had an electoral landslide.
+The alcoholic general staged a coup d'etat in Tallahassee.
+Lucille and Randall cleaned their plates in the candlelight.
+Leland alleged that "Gilligan's Island" is a little
+illogical.
+Sinead O'Connor's latest single isn't going to appall
+Russell.
+Colonial landlords near London once said "ain't," not
+"isn't."
+Caroline D'Arc is an enrollee at that college in
+Philadelphia.
+Didn't she hear, Cal used lots o' laterals, in the last
+seconds.
+Eileen O'Hare and Pat O'Shea still shouldn't tell Leslie
+O'Neill.
+"This little oriental elephant is a cultural sellout," said
+Helen.
+The illegal planeload o' pollutants hasn't landed at
+Chicago's O'Hare.
+She'll call Allison in Honolulu, not a local call, on her
+cellular phone.
+This'll enthrall the linguists...using the letter "L," one
+can spell "chocolate."
+Allegra, an unparalleled intellectual, calculated the
+celestial latitudes and longitudes in her sleep.</text>
+  </lesson>
+  <lesson>
+   <id>{d8a29eea-30b2-436f-a2eb-7bf605dbd442}</id>
+   <title>Lesson 18</title>
+   <newCharacters>yf</newCharacters>
+   <text>ffff yyyy ffff yyyy ffff yyyy ffff yyyy
+ffff yyyy ffff yyyy ffff yyyy ffff yyyy
+fy fy fy fy
+yf yf yf yf
+ffff gggg hhhh yyyy pppp uuuu
+guy guy guy guy gyp gyp gyp gyp
+UHf UHf UHf UHf yuh yuh yuh yuh
+huff huff huff huff
+puff puff puff puff
+puffy puffy puffy puffy puppy puppy puppy puppy</text>
+  </lesson>
+  <lesson>
+   <id>{1eb1a35f-23cf-440c-b2fa-fae5acd04fc6}</id>
+   <title>Lesson 19</title>
+   <newCharacters>YF</newCharacters>
+   <text>aaaa cccc dddd eeee ffff gggg hhhh iiii llll nnnn
+oooo pppp rrrr ssss tttt uuuu yyyy '''' ,,,, ....
+aaaa cccc dddd eeee ffff gggg hhhh iiii llll nnnn
+oooo pppp rrrr ssss tttt uuuu yyyy '''' ,,,, ....
+In Lafayette, crayfish and coffee intensify the lifestyle.
+"I defy you," cried Finley, "to find a falcon as feathery as
+Godfrey."
+Granny Fay left Cindy a frilly, yet unfortunately frayed,
+taffeta dress.
+In days of yesteryear, typography did not signify only fonts
+and typefaces.
+The youthful fantasy of Goofy and Donald left Francine the
+fallacy that life is often funny.
+"After the fifteenth forfeiture," uttered the referee,
+"Stanford is, officially, ineffectual."
+Dreyfuss thought fondly of that hefty eyeful of San
+Francisco's fog, last Friday near the ferry.
+Geoffrey's faculty lecture on crystallography and
+diffraction patterns is usually insufficient and faulty.
+If you can differentiate psychotherapy and psychoanalysis,
+or psychiatry and psychology, you yourself are a
+psychologist.
+Yesterday, as they do each payday, Sydney and Clifford
+playfully ran off to the fishery for frothy glasses of
+Henry's Draft Ale.</text>
+  </lesson>
+  <lesson>
+   <id>{e4036394-98ab-47a5-b651-7d56c31ee3de}</id>
+   <title>Lesson 20</title>
+   <newCharacters>km</newCharacters>
+   <text>kkkk mmmm kkkk mmmm kkkk mmmm kkkk mmmm
+kkkk mmmm kkkk mmmm kkkk mmmm kkkk mmmm
+km km km km km km km km
+mk mk mk mk mk mk mk mk
+hhhh kkkk mmmm uuuu
+ku ku ku ku
+mu mu mu mu
+Uk Uk Uk Uk
+hum hum hum hum mum mum mum mum muk muk muk muk</text>
+  </lesson>
+  <lesson>
+   <id>{29085982-4fb4-4c9d-8712-acf34e4f4487}</id>
+   <title>Lesson 21</title>
+   <newCharacters>KM</newCharacters>
+   <text>aaaa cccc dddd eeee ffff gggg hhhh iiii kkkk llll mmmm
+nnnn oooo pppp rrrr ssss tttt uuuu yyyy '''' ,,,, ....
+aaaa cccc dddd eeee ffff gggg hhhh iiii kkkk llll mmmm
+nnnn oooo pppp rrrr ssss tttt uuuu yyyy '''' ,,,, ....
+Kramer asked for skim milk in a melodramatic manner.
+"My kingdom for a Macintosh," Maurice choked out meekly.
+It's more sportsmanlike to say "checkmate" than "knockout."
+Emmet felt homesick until Mom sent him that Hallmark
+Hanukkah card.
+The makeshift cloakroom is a trademark of McKinley's
+decisionmaking.
+Kim's nickname is "Kimono," an irksome mockery of her days
+in Yokohama.
+There's not much homemade pumpkin ice cream and Smucker's
+hot fudge sauce remaining.
+The filmmaker, in machinelike precision, caught the magma
+and smoke from the immense Mt. Krakatoa on film.
+Stock in Amtrak skyrocketed after McKeon's remark mocking
+spokesmen, gimmickery, and smokescreens in the marketplace.
+From Katmandu to Oklahoma, from Stockholm to Kentucky, from
+Alaska to the Kremlin, Kodak film is found in many, many
+cameras.</text>
+  </lesson>
+  <lesson>
+   <id>{4be5f5dc-acaf-4afc-8318-90a68911ffd0}</id>
+   <title>Lesson 22</title>
+   <newCharacters>jw</newCharacters>
+   <text>jjjj wwww jjjj wwww jjjj wwww jjjj wwww
+jjjj wwww jjjj wwww jjjj wwww jjjj wwww
+jw jw jw jw jw jw jw jw
+wj wj wj wj wj wj wj wj
+eeee jjjj tttt wwww
+ewe ewe ewe ewe jet jet jet jet jew jew jew jew
+wee wee wee wee wet wet wet wet
+jewett jewett jewett jewett</text>
+  </lesson>
+  <lesson>
+   <id>{7ae28a76-5afa-4e6c-9b68-b09ea1ae533e}</id>
+   <title>Lesson 23</title>
+   <newCharacters>JW</newCharacters>
+   <text>aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn oooo pppp rrrr ssss tttt uuuu wwww yyyy '''' ,,,, ....
+aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn oooo pppp rrrr ssss tttt uuuu wwww yyyy '''' ,,,, ....
+Jamestown, New York, that's my home town.
+The Joshua Tree National Monument is known worldwide.
+Jujitsu makes you use your opponent's weight against
+himself.
+"Wow," he said as his jaw dropped. "That's a jewel of a
+wristwatch."
+Wanting the water to flow, Irwin twisted the faucet
+counterclockwise.
+Woodrow Wilson's popularity went downward after the economic
+slowdown.
+The old Jewish widow withdrew further, working with the
+wooden jigsaw.
+Judy wondered if it was worthwhile to walk downtown to the
+Jewelry store.
+I wonder if that Newsweek on the windowsill has the lowdown
+on Woolworths.
+With awe, Jeremy awkwardly swallowed a whole slew of
+raisinettes as the John Waters film started.
+Wynonna Judd, after a whirlwind tour of the Midwest, waited
+at the Waldorf Astoria for two weeks.
+"Your Majesty," wrote Marjorie, "Nothing justifies
+prejudice. I can rejoice only when there is justice."
+The newsletter whitewashed reports of wiretapping in
+Congresswoman Hollingsworth's jurisdiction.
+"Hallelujah," wailed the janitor as he jettisoned the
+typewriter out the window.
+The projectile majestically landed at the junction of
+Jefferson and Winslow streets, just jolting, not injuring,
+a jogging tourist.</text>
+  </lesson>
+  <lesson>
+   <id>{1d77b4c5-9352-4d46-9728-1d41189ea820}</id>
+   <title>Lesson 24</title>
+   <newCharacters>qv</newCharacters>
+   <text>qqqq vvvv qqqq vvvv qqqq vvvv qqqq vvvv
+qqqq vvvv qqqq vvvv qqqq vvvv qqqq vvvv
+qv qv qv qv qv qv qv qv
+vq vq vq vq vq vq vq vq</text>
+  </lesson>
+  <lesson>
+   <id>{904f7284-c81a-42ec-8fd0-d7810b78b9d2}</id>
+   <title>Lesson 25</title>
+   <newCharacters>QV</newCharacters>
+   <text>aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn
+oooo pppp qqqq rrrr ssss tttt uuuu vvvv wwww yyyy '''' ,,,,
+....
+aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn
+oooo pppp qqqq rrrr ssss tttt uuuu vvvv wwww yyyy '''' ,,,,
+....
+Mercury and quicksilver are quite the same.
+An acquisitive mind helped Pavlov evolve his theories.
+QVC's involvement with Paramount may give it new verve.
+Vivian's new Volvo unequivocally vanquished her fears of
+driving.
+According to Pravda, Vladivostok was a quiet village in its
+Soviet days.
+This unique, opaque liquor does not quench your thirst, it
+makes you queasy.
+David's vivid imagination and his inquisitive and inventive
+mind suggest a high IQ.
+If Iraq was equipped to invade and conquer Tel Aviv, the
+U.S. may have quashed that pervasively.
+We've never quantitatively proven that a quaver isequivalent
+to a quiver, only qualitatively.
+This revolutionary cardiovascular technique is
+representative of the productivity here in Charlottesville.
+"I've never had such quality hors d'oeuvres," Javier said
+assertively over the tranquil sounds of Vivaldi,
+as he looked over the picturesque headquarters of the
+Vancouver Civic Center.
+Nirvana's inequivalent sequel to their provocative release,
+Nevermind, is inconclusive.
+Nevertheless, this quirky yet vivacious trio has evoked
+a progressive sound that very well may give you a new
+perspective on irreverence.</text>
+  </lesson>
+  <lesson>
+   <id>{96c41096-e6e7-4502-8bc6-737a25ef02b3}</id>
+   <title>Lesson 26</title>
+   <newCharacters>;z</newCharacters>
+   <text>;;;; zzzz ;;;; zzzz ;;;; zzzz ;;;; zzzz
+;;;; zzzz ;;;; zzzz ;;;; zzzz ;;;; zzzz
+;z ;z ;z ;z ;z ;z ;z ;z
+;z ;z ;z ;z ;z ;z ;z ;z
+z; z; z; z; z; z; z; z;</text>
+  </lesson>
+  <lesson>
+   <id>{e790b2a8-38be-432a-812c-0965854b5d7c}</id>
+   <title>Lesson 27</title>
+   <newCharacters>:Z</newCharacters>
+   <text>aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn oooo
+pppp qqqq rrrr ssss tttt uuuu vvvv wwww yyyy zzzz '''' ,,,,
+.... ;;;;
+aaaa cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll mmmm
+nnnn oooo
+pppp qqqq rrrr ssss tttt uuuu vvvv wwww yyyy zzzz '''' ,,,,
+.... ;;;;
+Zachary MacKenzie froze in amazement; on the radio in his
+Mazda he heard pizzicato stanzas of Mozart.
+Carmen Rodriguez is a citizen of Venezuela; her former
+spouse, Inigo Martinez, and his new wife, Anna Vasquez, have
+moved to Swaziland or Tanzania.
+The prizewinning paper on immunization against schizophrenia
+was delivered in Czechoslovakia; this technique was
+deemphasized in Switzerland.
+A crazed gazelle was whizzing around the zoo; a quizzical
+giraffe guzzled down pizzas through his muzzle; another one
+merely grazed and dozed;
+several chimpanzees started zigging and zagging; the reptile
+zone was oozing with activity;
+several lizards hazarded the freezing waters and capsized
+the fish tanks; a dozen grizzlies were waltzing in the plaza.</text>
+  </lesson>
+  <lesson>
+   <id>{87ea15e8-22d7-4c52-a2fa-d9b410063d21}</id>
+   <title>Lesson 28</title>
+   <newCharacters>xb</newCharacters>
+   <text>bbbb xxxx bbbb xxxx bbbb xxxx bbbb xxxx
+bbbb xxxx bbbb xxxx bbbb xxxx bbbb xxxx
+bx bx bx bx bx bx bx bx
+xb xb xb xb xb xb xb xb</text>
+  </lesson>
+  <lesson>
+   <id>{d7a8ae0b-49dc-402f-a9e7-4970142ad29a}</id>
+   <title>Lesson 29</title>
+   <newCharacters>XB</newCharacters>
+   <text>aaaa bbbb cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll
+mmmm nnnn oooo
+pppp qqqq rrrr ssss tttt uuuu vvvv wwww xxxx yyyy zzzz ''''
+,,,, .... ;;;;
+aaaa bbbb cccc dddd eeee ffff gggg hhhh iiii jjjj kkkk llll
+mmmm nnnn oooo
+pppp qqqq rrrr ssss tttt uuuu vvvv wwww xxxx yyyy zzzz ''''
+,,,, .... ;;;;
+Heathcliff Huxtable was played by the inexorable Bill Cosby.
+An inexhaustible supply of benzedrine merely exacerbated his
+disturbances.
+Bruce Boxleitner explained to the extraterrestrial why
+Babylon Five was built.
+The ambidextrous exhibitor was exhausted by the time he
+loaded the boxcar with hobbyhorses.
+Drop those xeroxes off in the mailbox; I'll get them in the
+bibliography in five days maximum.
+Mr. Balboa is pretty flexible with the textbook; it's
+probably excusable to fall a bit behind.
+Why Mr. Baxter went from Bordeaux to the tableaux exhibit in
+Luxembourg by taxicab is inexplicable.
+Becky found the Bronx pretty obnoxious; though there was
+that Caribbean restaurant that truly excelled.
+The executives at NBC, CBS, and ABC all found it inexcusable
+that the BBC was so inflexible and xenophobic.</text>
+  </lesson>
+  <lesson>
+   <id>{9755442a-f0d4-4a1a-ae88-05aa1b6ecb6a}</id>
+   <title>Lesson 30</title>
+   <newCharacters>&lt;&gt;</newCharacters>
+   <text>&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;
+&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; &lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;
+&lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt;
+&gt;&gt; &lt;&lt; &gt;&gt; &lt;&lt; &gt;&gt;&lt; &gt;&gt;&lt; &gt;&gt;&lt; &gt;&gt;&lt; &lt;&lt;&gt; &lt;&lt;&gt; &lt;&lt;&gt; &lt;&lt;&gt;
+&lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &gt;&lt; &gt;&lt; &gt;&lt; &gt;&lt;</text>
+  </lesson>
+  <lesson>
+   <id>{7f93442d-4376-4e43-8529-2d1836e25aa0}</id>
+   <title>Lesson 31</title>
+   <newCharacters />
+   <text>&lt;&lt;&lt;&lt; &lt;&lt;&lt;&lt; &lt;&lt;&lt;&lt; &lt;&lt;&lt;&lt;
+&gt;&gt;&gt;&gt; &gt;&gt;&gt;&gt; &gt;&gt;&gt;&gt; &gt;&gt;&gt;&gt;
+&lt;&lt; &gt;&gt; &lt;&lt; &gt;&gt; &lt;&lt; &gt;&gt; &lt;&lt; &gt;&gt;
+&lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt;
+a &gt; b; a &gt; b; a &gt; b; a &gt; b;
+x &lt;&lt; z; x &lt;&lt; z; x &lt;&lt; z; x &lt;&lt; z;
+&gt;..&lt; &gt;..&lt; &gt;..&lt; &gt;..&lt;
+&lt;:::&gt; &lt;:::&gt; &lt;:::&gt; &lt;:::&gt;
+'&lt;&gt;' '&lt;&gt;' '&lt;&gt;' '&lt;&gt;'
+s &gt;&gt;&gt; bits; s &gt;&gt;&gt; bits; s &gt;&gt;&gt; bits; s &gt;&gt;&gt; bits
+echo "hello" &gt; out.txt; echo "hello" &gt; out.txt;
+x &lt;&lt;&lt; z; x &lt;&lt;&lt; z; x &lt;&lt;&lt; z; x &lt;&lt;&lt; z;
+sort &lt; file.txt &gt; sorted.txt; sort &lt; file.txt &gt; sorted.txt;</text>
+  </lesson>
+  <lesson>
+   <id>{d8b4c7c3-9923-4146-8458-555a329be170}</id>
+   <title>Lesson 32</title>
+   <newCharacters>-_</newCharacters>
+   <text>---- ____ ---- ____ ---- ____ ---- ____
+---- ____ ---- ____ ---- ____ ---- ____
+-_- -_- -_- -_-
+_-_ _-_ _-_ _-_
+__ -- __ -- __ -- __ --
+--__-- --__-- --__-- --__--</text>
+  </lesson>
+  <lesson>
+   <id>{66287f21-83c0-453c-9a92-c14cdbb89b8a}</id>
+   <title>Lesson 33</title>
+   <newCharacters />
+   <text>&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____
+&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____
+a-&gt;w a-&gt;w a-&gt;w a-&gt;w
+s &lt;-&gt; t s &lt;-&gt; t s &lt;-&gt; t s &lt;-&gt; t
+var _k : w - v; var _k : w - v; var _k : w - v; var _k : w - v;
+_.map _.map _.map _.map _.reduce _.reduce _.reduce _.reduce
+&lt;_&gt; &lt;_&gt; &lt;_&gt; &lt;_&gt; &gt;_&lt; &gt;_&lt; &gt;_&lt; &gt;_&lt;
+var a, b -&gt; c; var a, b -&gt; c; var a, b -&gt; c; var a, b -&gt; c;</text>
+  </lesson>
+  <lesson>
+   <id>{b476295a-5911-4a9b-a527-c172b24222db}</id>
+   <title>Lesson 34</title>
+   <newCharacters>?/</newCharacters>
+   <text>//// //// //// ////
+???? ???? ???? ????
+/? /? /? /? ?/ ?/ ?/ ?/
+/?/ /?/ /?/ /?/ ?/? ?/? ?/? ?/?
+??/ ??/ ??/ ??/ //? //? //? //?</text>
+  </lesson>
+  <lesson>
+   <id>{e6fa03b4-9822-4607-9aae-ca31a4dd6aea}</id>
+   <title>Lesson 35</title>
+   <newCharacters />
+   <text>&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ????
+&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ????
+a/x &lt; b ? "up" : "down"; a/x &lt; b ? "up" : "down"; a/x &lt; b ? "up" : "down"; a/x &lt; b ? "up" : "down";
+s/new/old s/new/old s/new/old s/new/old
+/foo?/gi /foo?/gi /foo?/gi /foo?/gi
+_note-&gt;prop ? "start" : "stop"; _note-&gt;prop ? "start" : "stop"; _note-&gt;prop ? "start" : "stop";
+a-&gt;x &lt;&lt; z ?: "unknown"; a-&gt;x &lt;&lt; z ?: "unknown"; a-&gt;x &lt;&lt; z ?: "unknown"; a-&gt;x &lt;&lt; z ?: "unknown";
+&lt;&lt;-?:?--&gt; &lt;&lt;-?:?--&gt; &lt;&lt;-?:?--&gt; &lt;&lt;-?:?--&gt;</text>
+  </lesson>
+  <lesson>
+   <id>{0c666151-b58c-468e-b507-bed2798fff0b}</id>
+   <title>Lesson 36</title>
+   <newCharacters>@^</newCharacters>
+   <text>@@@@ ^^^^ @@@@ ^^^^ @@@@ ^^^^
+@@@@ ^^^^ @@@@ ^^^^ @@@@ ^^^^
+@^ @^ @^ @^ ^@ ^@ ^@ ^@
+@^@ @^@ @^@ @^@ ^@^ ^@^ ^@^ ^@^
+@@ ^^ @@ ^^ @@ ^^ @@ ^^
+@@^^ @@^^ @@^^ @@^^ ^^@@ ^^@@ ^^@@ ^^@@</text>
+  </lesson>
+  <lesson>
+   <id>{98e2fc13-1234-42a6-a9a5-6be37939b4c0}</id>
+   <title>Lesson 37</title>
+   <newCharacters />
+   <text>&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ???? @@@@ ^^^^
+&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ???? @@@@ ^^^^
+me@mail.com me@mail.com me@mail.com me@mail.com
+@interface Person : NSObject @interface Person : NSObject
+x^n; x^n; x^n; x^n;
+@res - a/b^n - @_c &lt; w; @res - a/b^n - @_c &lt; w; @res - a/b^n - @_c &lt; w; @res - a/b^n - @_c &lt; w;
+@x &lt;-- @a^@b ? @n : @m; @x &lt;-- @a^@b ? @n : @m; @x &lt;-- @a^@b ? @n : @m; @x &lt;-- @a^@b ? @n : @m;</text>
+  </lesson>
+  <lesson>
+   <id>{3f43abee-70b6-438c-8263-e3e966e7d59a}</id>
+   <title>Lesson 38</title>
+   <newCharacters>|\</newCharacters>
+   <text>\\\\ |||| \\\\ |||| \\\\ |||| \\\\ ||||
+\\\\ |||| \\\\ |||| \\\\ |||| \\\\ ||||
+\\|| \\|| \\|| \\||
+\|\ \|\ \|\ \|\
+||\ ||\ ||\ ||\</text>
+  </lesson>
+  <lesson>
+   <id>{951e03e0-3e99-4004-801a-db5c433b4d7f}</id>
+   <title>Lesson 39</title>
+   <newCharacters />
+   <text>&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ???? @@@@ ^^^^ \\\\ ||||
+&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt; ---- ____ //// ???? @@@@ ^^^^ \\\\ ||||
+ls|grep -i -E "fo?o@bar\.com" ls|grep -i -E "fo?o@bar\.com" ls|grep -i -E "fo?o@bar\.com"
+@t-&gt;val - @a|@b ^ @x|@y; @t-&gt;val - @a|@b ^ @x|@y; @t-&gt;val - @a|@b ^ @x|@y; @t-&gt;val - @a|@b ^ @x|@y;
+@"\"val\" - myVal" @"\"val\" - myVal" @"\"val\" - myVal" @"\"val\" - myVal"
+cat /etc/hosts|grep -i domain cat /etc/hosts|grep -i domain cat /etc/hosts|grep -i domain
+a/b &lt; x ? "one":"two"&gt;file.txt a/b &lt; x ? "one":"two"&gt;file.txt a/b &lt; x ? "one":"two"&gt;file.txt</text>
+  </lesson>
+  <lesson>
+   <id>{a4befebf-d3a5-453f-b247-3fd31fed459d}</id>
+   <title>Lesson 40</title>
+   <newCharacters>(*=</newCharacters>
+   <text>(((( **** ==== (((( **** ==== (((( **** ====
+(((( **** ==== (((( **** ==== (((( **** ====
+( ( ( ( * * * * = = = =
+( ( ( ( * * * * = = = =
+(* (* (* (* *( *( *( *(
+(= (= (= (= =( =( =( =(
+=* =* =* =* *= *= *= *=
+=(* =(* =(* =(* *(= *(= *(= *(=</text>
+  </lesson>
+  <lesson>
+   <id>{bb067859-f4d0-460f-80b8-f4f1fe64f09e}</id>
+   <title>Lesson 41</title>
+   <newCharacters>})</newCharacters>
+   <text>}}}} )))) }}}} )))) }}}} )))) }}}} ))))
+}}}} )))) }}}} )))) }}}} )))) }}}} ))))
+} } } } ) ) ) ) } } } } ) ) ) )
+}) }) }) }) )} )} )} )}
+})} })} })} })}
+)}) )}) )}) )})</text>
+  </lesson>
+  <lesson>
+   <id>{d9c3d6e4-97a1-4ec3-b381-0de96393d702}</id>
+   <title>Lesson 42</title>
+   <newCharacters />
+   <text>(((( **** ==== }}}} ))))
+(((( **** ==== }}}} ))))
+(((( **** ==== }}}} ))))
+() () () () () () () ()
+=*= =*= =*= =*= *=* *=* *=* *=*
+}) }) }) }) )} )} )} )}
+(=) (=) (=) (=) (*) (*) (*) (*)
+}* }* }* }* *} *} *} *}
+}(=*) }(=*) }(=*) }(=*)
+)*=(} )*=(} )*=(} )*=(}</text>
+  </lesson>
+  <lesson>
+   <id>{f263bb42-083c-4a7b-ac64-af3483409fc7}</id>
+   <title>Lesson 43</title>
+   <newCharacters>{+</newCharacters>
+   <text>{{{{ ++++ {{{{ ++++ {{{{ ++++ {{{{ ++++
+{{{{ ++++ {{{{ ++++ {{{{ ++++ {{{{ ++++
+{ { { { + + + + { { { { + + + + { { { { + + + +
++{ +{ +{ +{ {+ {+ {+ {+
+{++ {++ {++ {++ ++{ ++{ ++{ ++{
+{+{ {+{ {+{ {+{ +{+ +{+ +{+ +{+
+{{+ {{+ {{+ {{+ {{+ {{+ {{+ {{+</text>
+  </lesson>
+  <lesson>
+   <id>{7f50a27c-f053-4297-94f0-167b962e4b39}</id>
+   <title>Lesson 44</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++
+(((( ==== **** }}}} )))) {{{{ ++++
+() () () () {} {} {} {}
+{=} {=} {=} {=} (*) (*) (*) (*)
+}+{ }+{ }+{ }+{ (=) (=) (=) (=)
+(+)=* (+)=* (+)=* (+)=*
+{*}=+ {*}=+ {*}=+ {*}=+
+=+=*= =+=*= =+=*= =+=*=
+*({=+=})* *({=+=})* *({=+=})* *({=+=})*</text>
+  </lesson>
+  <lesson>
+   <id>{dd427396-39ea-447c-8103-3f25df464c6f}</id>
+   <title>Lesson 45</title>
+   <newCharacters>[]</newCharacters>
+   <text>[[[[ ]]]] [[[[ ]]]] [[[[ ]]]] [[[[ ]]]]
+[[[[ ]]]] [[[[ ]]]] [[[[ ]]]] [[[[ ]]]]
+[] [] [] [] ][ ][ ][ ][
+[[] [[] [[] [[] ]][ ]][ ]][ ]][
+[[]] [[]] [[]] [[]] ]][[ ]][[ ]][[ ]][[
+[ [ [ [ [ [ [ [ ] ] ] ] ] ] ] ]</text>
+  </lesson>
+  <lesson>
+   <id>{c198cecb-d550-4a2d-bbe1-06cb23d7936d}</id>
+   <title>Lesson 46</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]]
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]]
+[{()}] [{()}] [{()}] [{()}] [=*=] [=*=] [=*=] [=*=]
+s(var[i++]){} s(var[i++]){} s(var[i++]){} s(var[i++]){}
+a[i] += {[x++]}; a[i] += {[x++]}; a[i] += {[x++]}; a[i] += {[x++]};
+call((a*b++)); call((a*b++)); call((a*b++)); call((a*b++));
+d:{var[a+b](z++)} d:{var[a+b](z++)} d:{var[a+b](z++)} d:{var[a+b](z++)}</text>
+  </lesson>
+  <lesson>
+   <id>{e2d1888c-bdb4-4435-9761-9e18249a02fd}</id>
+   <title>Lesson 47</title>
+   <newCharacters>&amp;!</newCharacters>
+   <text>&amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!!
+&amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!! &amp;&amp;&amp;&amp; !!!!
+&amp;! &amp;! &amp;! &amp;! !&amp; !&amp; !&amp; !&amp;
+&amp;!&amp; &amp;!&amp; &amp;!&amp; &amp;!&amp; !&amp;! !&amp;! !&amp;! !&amp;!
+&amp; ! &amp; ! &amp; ! &amp; ! &amp;&amp;! &amp;&amp;! &amp;&amp;! &amp;&amp;!
+!!&amp; !!&amp; !!&amp; !!&amp; !&amp;! !&amp;! !&amp;! !&amp;!
+&amp;&amp; ! &amp;&amp; ! &amp;&amp; ! &amp;&amp; !
+!! &amp; !! &amp; !! &amp; !! &amp;</text>
+  </lesson>
+  <lesson>
+   <id>{6e88fdf2-4d31-4106-a4b1-c25139356207}</id>
+   <title>Lesson 48</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+!a=b++ !a=b++ !a=b++ !a=b++
+*x={call(&amp;a &amp;b)}()++ *x={call(&amp;a &amp;b)}()++ *x={call(&amp;a &amp;b)}()++ *x={call(&amp;a &amp;b)}()++
+&amp;z*=[!a !b !c] &amp;z*=[!a !b !c] &amp;z*=[!a !b !c] &amp;z*=[!a !b !c]
+func(&amp;x, &amp;y){&amp;x!=&amp;y} func(&amp;x, &amp;y){&amp;x!=&amp;y} func(&amp;x, &amp;y){&amp;x!=&amp;y} func(&amp;x, &amp;y){&amp;x!=&amp;y}
+{a,b}-&gt;{[a*b]} != &amp;z {a,b}-&gt;{[a*b]} != &amp;z {a,b}-&gt;{[a*b]} != &amp;z {a,b}-&gt;{[a*b]} != &amp;z
+!((var++)*(x[z+y]))-&gt;{t} !((var++)*(x[z+y]))-&gt;{t} !((var++)*(x[z+y]))-&gt;{t} !((var++)*(x[z+y]))-&gt;{t}</text>
+  </lesson>
+  <lesson>
+   <id>{3d27a275-9774-4b3f-add0-54ee109cf75f}</id>
+   <title>Lesson 49</title>
+   <newCharacters>$#</newCharacters>
+   <text>$$$$ #### $$$$ #### $$$$ #### $$$$ ####
+$$$$ #### $$$$ #### $$$$ #### $$$$ ####</text>
+  </lesson>
+  <lesson>
+   <id>{b8d3ddbf-b918-49ad-aeb6-38f73e569e45}</id>
+   <title>Lesson 50</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$</text>
+  </lesson>
+  <lesson>
+   <id>{f9084fb5-32fb-48a0-9aa0-67a0ca45aae0}</id>
+   <title>Lesson 51</title>
+   <newCharacters>190</newCharacters>
+   <text>1111 9999 0000 1111 9999 0000 1111 9999 0000 1111 9999 0000
+1111 9999 0000 1111 9999 0000 1111 9999 0000 1111 9999 0000
+1 1 1 1 9 9 9 9 0 0 0 0 1 1 1 1 9 9 9 9 0 0 0 0
+1 1 1 1 9 9 9 9 0 0 0 0 1 1 1 1 9 9 9 9 0 0 0 0
+10 10 10 10 01 01 01 01 90 90 90 90 09 09 09 09 19 19 19 19 91 91 91 91
+101 101 101 101 909 909 909 909 901 901 901 901
+911 911 911 911 911 911 911 911
+9091 9091 9091 9091 9091 9091 9091 9091</text>
+  </lesson>
+  <lesson>
+   <id>{19e63c39-b7b5-4502-a898-3252dd8ea8b1}</id>
+   <title>Lesson 52</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000
+$a1=[1,9] $a1=[1,9] $a1=[1,9] $a1=[1,9]
+x=&gt;{a1+a9}(*) x=&gt;{a1+a9}(*) x=&gt;{a1+a9}(*) x=&gt;{a1+a9}(*)
+(&amp;m=$1=$0)[0] (&amp;m=$1=$0)[0] (&amp;m=$1=$0)[0] (&amp;m=$1=$0)[0]
+@x=($1)/($0) @x=($1)/($0) @x=($1)/($0) @x=($1)/($0)
+(#z#)|(#y#) (#z#)|(#y#) (#z#)|(#y#) (#z#)|(#y#)
+{x:{y:[1,0]}, t:{k:[1+x9]}} {x:{y:[1,0]}, t:{k:[1+x9]}} {x:{y:[1,0]}, t:{k:[1+x9]}} {x:{y:[1,0]}, t:{k:[1+x9]}}
+w90=1+L w90=1+L w90=1+L w90=1+L $1.*.doc $1.*.doc $1.*.doc $1.*.doc</text>
+  </lesson>
+  <lesson>
+   <id>{0c1ce5d7-de1c-4d52-bca8-088985474c43}</id>
+   <title>Lesson 53</title>
+   <newCharacters>32</newCharacters>
+   <text>3333 2222 3333 2222 3333 2222 3333 2222
+3333 2222 3333 2222 3333 2222 3333 2222
+323 323 323 323 223 223 223 223 332 332 332 332
+2 2 2 2 3 3 3 3 23 23 23 23 32 32 32 32
+2 23 2 23 2 23 2 23 2 3 2 3 2 3 2 3</text>
+  </lesson>
+  <lesson>
+   <id>{91822013-173f-480c-b81c-8e384578155f}</id>
+   <title>Lesson 54</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000 2222 3333
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000 2222 3333
+$x23-$x01=(!a-!b) $x23-$x01=(!a-!b) $x23-$x01=(!a-!b) $x23-$x01=(!a-!b)
+[0,1,2,3]*=9 [0,1,2,3]*=9 [0,1,2,3]*=9 [0,1,2,3]*=9
+{--i+=0} {--i+=0} {--i+=0} {--i+=0} (&amp;y-&amp;z)*=[3] (&amp;y-&amp;z)*=[3] (&amp;y-&amp;z)*=[3] (&amp;y-&amp;z)*=[3]
+3+2=(2*2)+1 3+2=(2*2)+1 3+2=(2*2)+1 3+2=(2*2)+1
+#2#-&gt;{3} #2#-&gt;{3} #2#-&gt;{3} #2#-&gt;{3}
+[{&amp;x-&gt;&amp;y},{&amp;z-&gt;&amp;f}]-&gt;@var [{&amp;x-&gt;&amp;y},{&amp;z-&gt;&amp;f}]-&gt;@var [{&amp;x-&gt;&amp;y},{&amp;z-&gt;&amp;f}]-&gt;@var [{&amp;x-&gt;&amp;y},{&amp;z-&gt;&amp;f}]-&gt;@var</text>
+  </lesson>
+  <lesson>
+   <id>{7b559191-0efe-4c2a-88be-3d50ba5a4937}</id>
+   <title>Lesson 55</title>
+   <newCharacters>54</newCharacters>
+   <text>5555 4444 5555 4444 5555 4444 5555 4444
+5555 4444 5555 4444 5555 4444 5555 4444
+5 4 5 4 5 4 5 4 54 54 54 54
+545 545 545 545 5 45 5 54 5 54 5 54
+4 45 4 45 4 45 4 45 5 45 5 45 5 45 5 45</text>
+  </lesson>
+  <lesson>
+   <id>{6fdf3e01-77ae-4950-94ae-19d0be36af10}</id>
+   <title>Lesson 56</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000 2222 3333 5555 4444
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!! #### $$$$ 1111 9999 0000 2222 3333 5555 4444
+func5(!a, !b); func5(!a, !b); func5(!a, !b); func5(!a, !b);
+if($z5 &gt; $z4){$a-&gt;speak()} if($z5 &gt; $z4){$a-&gt;speak()} if($z5 &gt; $z4){$a-&gt;speak()} if($z5 &gt; $z4){$a-&gt;speak()}
+5+4=3+3+3 5+4=3+3+3 5+4=3+3+3 5+4=3+3+3
+while($i &lt; 5){$i--} while($i &lt; 5){$i--} while($i &lt; 5){$i--} while($i &lt; 5){$i--}
+#ERR_4 #ERR_4 #ERR_4 #ERR_4 ($z|$t)&amp;($z|$k) ($z|$t)&amp;($z|$k) ($z|$t)&amp;($z|$k) ($z|$t)&amp;($z|$k)
+try{f.call(!a||!b)} try{f.call(!a||!b)} try{f.call(!a||!b)} try{f.call(!a||!b)}
+$ev-&gt;[t5] $ev-&gt;[t5] $ev-&gt;[t5] $ev-&gt;[t5]</text>
+  </lesson>
+  <lesson>
+   <id>{62c0f685-215d-4b55-820f-52356bb1f4f6}</id>
+   <title>Lesson 57</title>
+   <newCharacters>76</newCharacters>
+   <text>7777 6666 7777 6666 7777 6666 7777 6666
+7777 6666 7777 6666 7777 6666 7777 6666
+7 7 7 7 6 6 6 6 76 76 76 76 667 667 667 667
+6 76 6 76 6 76 6 76 676 676 676 676
+7 676 76 7 676 76 7 676 76 7 676 76</text>
+  </lesson>
+  <lesson>
+   <id>{efd636da-7956-45ce-a712-b18769341e67}</id>
+   <title>Lesson 58</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666
+/**$7-&gt;$6**/ /**$7-&gt;$6**/ /**$7-&gt;$6**/ /**$7-&gt;$6**/
+(!vol--)*7 (!vol--)*7 (!vol--)*7 (!vol--)*7
+7+6=--(9+5) 7+6=--(9+5) 7+6=--(9+5) 7+6=--(9+5)
+v&lt;7x6&gt;v v&lt;7x6&gt;v v&lt;7x6&gt;v v&lt;7x6&gt;v
+{(7t+2p)}:false {(7t+2p)}:false {(7t+2p)}:false {(7t+2p)}:false
+{(9*&amp;2)||(5*&amp;1)}-&gt;(z[7]) {(9*&amp;2)||(5*&amp;1)}-&gt;(z[7]) {(9*&amp;2)||(5*&amp;1)}-&gt;(z[7]) {(9*&amp;2)||(5*&amp;1)}-&gt;(z[7])</text>
+  </lesson>
+  <lesson>
+   <id>{46ce3eec-7fa9-4123-8e9a-1eba659ac650}</id>
+   <title>Lesson 59</title>
+   <newCharacters>%8</newCharacters>
+   <text>%%%% 8888 %%%% 8888 %%%% 8888 %%%% 8888
+%%%% 8888 %%%% 8888 %%%% 8888 %%%% 8888
+%8 %8 %8 %8 8 % 8 % 8 % 8 %
+8%8 8%8 8%8 8%8 % 8% % 8% % 8% % 8%
+% %8 % %8 % %8 % %8 8% 8%8 8% 8%8 8% 8%8 8% 8%8</text>
+  </lesson>
+  <lesson>
+   <id>{d89ad97e-2d42-43f9-bafa-3ebb8a1a2ca0}</id>
+   <title>Lesson 60</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666 %%%% 8888
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666 %%%% 8888
+!(x%y==z) !(x%y==z) !(x%y==z) !(x%y==z)
+2t/3k-&gt;8m 2t/3k-&gt;8m 2t/3k-&gt;8m 2t/3k-&gt;8m
+{$1-&gt;$2}==8 {$1-&gt;$2}==8 {$1-&gt;$2}==8 {$1-&gt;$2}==8
+%[0,1,2,3,4,5,6,7,8,9]% %[0,1,2,3,4,5,6,7,8,9]% %[0,1,2,3,4,5,6,7,8,9]% %[0,1,2,3,4,5,6,7,8,9]%
+/is.*near[y,Y]{8}ou/g /is.*near[y,Y]{8}ou/g /is.*near[y,Y]{8}ou/g /is.*near[y,Y]{8}ou/g
+&amp;m-&gt;ping(z%8) &amp;m-&gt;ping(z%8) &amp;m-&gt;ping(z%8) &amp;m-&gt;ping(z%8)</text>
+  </lesson>
+  <lesson>
+   <id>{2ca704af-dfdb-4358-9770-f422d9131ddb}</id>
+   <title>Lesson 61</title>
+   <newCharacters>~`</newCharacters>
+   <text>~~~~ ```` ~~~~ ```` ~~~~ ```` ~~~~ ````
+~~~~ ```` ~~~~ ```` ~~~~ ```` ~~~~ ````
+~`~`~`~` ~`~`~`~` ~`~`~`~` ~`~`~`~`
+~`~ ~`~ ~`~ ~`~ ~ ~` ~ ~` ~ ~` ~ ~`
+~`~~ ~`~~ ~`~~ ~`~~ `~` `~` `~` `~`</text>
+  </lesson>
+  <lesson>
+   <id>{e62e8a0c-d3b0-48eb-bf70-757f042a9c15}</id>
+   <title>Lesson 62</title>
+   <newCharacters />
+   <text>(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666 %%%% 8888 ~~~~ ````
+(((( ==== **** }}}} )))) {{{{ ++++ [[[[ ]]]] &amp;&amp;&amp;&amp; !!!!
+#### $$$$ 1111 9999 0000 2222 3333 5555 4444 7777 6666 %%%% 8888 ~~~~ ````
+`_code_` `_code_` `_code_` `_code_`
+{~!i}([abc])-&gt;{1,2,3,4,5,6,7,8} {~!i}([abc])-&gt;{1,2,3,4,5,6,7,8}
+%x=&amp;y %x=&amp;y %x=&amp;y %x=&amp;y a*(b+~c) a*(b+~c) a*(b+~c) a*(b+~c)
+#in-&gt;[x:_w_]-&gt;`s++` #in-&gt;[x:_w_]-&gt;`s++` #in-&gt;[x:_w_]-&gt;`s++` #in-&gt;[x:_w_]-&gt;`s++`
+#def if( while( #def if( while( $s[x--] $s[x--] $s[x--] $s[x--]
+exit(0); exit(0); exit(0); exit(0);
+You rock!</text>
+  </lesson>
+ </lessons>
+</course>
